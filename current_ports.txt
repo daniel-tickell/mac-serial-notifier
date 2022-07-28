@@ -1,0 +1,7 @@
+tty.wlan-debug
+tty.Bluetooth-Incoming-Port
+tty.Joy-1AAB
+tty.usbserial-221430
+tty.usbserial-221420
+tty.usbserial-22210
+tty.usbserial-2240
